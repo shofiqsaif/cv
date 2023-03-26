@@ -20,5 +20,8 @@ body {
 
   th{
     border: 2px solid brown;
+  }
 
+  label{
+    padding-right: 30px;
   }
